@@ -1,12 +1,9 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
 
-![Metrics](https://metrics.lecoq.io/dyakimchuk?template=classic&base.header=0&base.activity=0&followup=1&isocalendar=1&languages=1&stars=1&isocalendar.duration=half-year&languages.ignored=HTML%2C%20CSS&languages.colors=github&languages.threshold=0%25&stars.limit=4&config.timezone=Europe%2FKiev&config.animated=true)
+![Metrics](https://metrics.lecoq.io/dyakimchuk?template=classic&base.header=0&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.ignored=HTML%2C%20CSS&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FKiev&config.animated=true)
 
 <!--
-**dyakimchuk/dyakimchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Metrics](https://metrics.lecoq.io/dyakimchuk?template=classic&base.header=0&base.activity=0&followup=1&activity=1&isocalendar=1&languages=1&stars=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=half-year&languages.ignored=HTML%2C%20CSS&languages.colors=github&languages.threshold=0%25&stars.limit=4&config.timezone=Europe%2FKiev&config.animated=true)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
