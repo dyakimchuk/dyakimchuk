@@ -3,10 +3,6 @@
 
 [CV](https://dyakimchuk.github.io/)
 
-[Visuals I do](https://www.denisyakimchuk.com/)
-
-![Metrics](https://metrics.lecoq.io/dyakimchuk?template=classic&base.header=0&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.ignored=HTML%2C%20CSS&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FKiev&config.animated=true)
-
 <!--
 Here are some ideas to get you started:
 
